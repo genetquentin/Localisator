@@ -1,1 +1,24 @@
 /*This is the CSS for all web pages*/
+/*Fonts
+For texts
+----------
+font-family: 'Bungee Outline', cursive;
+
+For titles
+-----------
+font-family: 'Electrolize', sans-serif;
+*/
+
+body
+{
+    font-family: 'Electrolize', sans-serif;
+    font-size: 30px;
+}
+
+.main-title
+{
+    font-family: 'Bungee Outline', cursive;
+    font-weight: bold;
+    font-size: 35px;
+
+}
