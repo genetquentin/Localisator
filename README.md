@@ -3,7 +3,7 @@
 #### It's mades with Python and Flask
 -------------------
 -------------------
-#### Installation
+#### Installation and dependancies
 
 
 
