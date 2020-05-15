@@ -12,7 +12,14 @@ font-family: 'Electrolize', sans-serif;
 body
 {
     font-family: 'Electrolize', sans-serif;
-    font-size: 30px;
+    font-size: 25px;
+    background-color: lightblue;
+    color: midnightblue;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: bold;
 }
 
 .main-title
@@ -20,5 +27,29 @@ body
     font-family: 'Bungee Outline', cursive;
     font-weight: bold;
     font-size: 35px;
+    color: gold;
+}
 
+.main-title:hover{
+    color: white;
+}
+
+.navbar{
+    background-color: midnightblue;
+}
+
+.nav-link{
+    color: gold;
+}
+
+.nav-link:hover{
+    color: white;
+}
+
+.geolocate_page_text{
+    border: 1px solid midnightblue;
+    border-radius:30px;
+    padding: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
